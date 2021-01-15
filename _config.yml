@@ -33,7 +33,7 @@ github:
 repository: atong2023/atong2023.github.io
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
