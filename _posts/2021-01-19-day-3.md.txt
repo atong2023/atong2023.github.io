@@ -1,0 +1,1 @@
+Today I redid the pandas chipotle exercise from scratch. It was a bit hard at first, but the later exercises became easier as it was more clear on what they wanted.
